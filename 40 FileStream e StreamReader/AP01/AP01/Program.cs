@@ -21,7 +21,6 @@ namespace AP01
                 fs = new FileStream(path, FileMode.Open);
                 // o StreamReader recebe um FileStream como argumento
                 sr = new StreamReader(fs);
-                //sr = File.OpenText(path) - outro modo de instanciar utilizando o File, nesse caso não precisa declarar o FileStream
 
                 // enquanto não chegar ao fim do arquivo
                 while (!sr.EndOfStream)
@@ -30,6 +29,20 @@ namespace AP01
                     string line = sr.ReadLine();
                     Console.WriteLine(line);
                 }
+
+                // ************* MODO "SIMPLIFICADO" *************               
+
+                FileInfo fi = new FileInfo(path);
+                StreamReader sr2 = fi.OpenText();
+
+                // enquanto não chegar ao fim do arquivo
+                while (!sr2.EndOfStream)
+                {
+                    // lê uma linha do arquivo e armazena
+                    string line = sr2.ReadLine();
+                    Console.WriteLine(line);
+                }
+
 
             }
             catch (IOException e)
