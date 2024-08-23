@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\bin\Debug\net8.0\031sp.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\bin\Debug\net8.0\031sp.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\bin\Debug\net8.0\031sp.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\bin\Debug\net8.0\031sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\bin\Debug\net8.0\031sp.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\refint\031sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\031sp.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\31 funcoes para string\031sp\031sp\obj\Debug\net8.0\ref\031sp.dll

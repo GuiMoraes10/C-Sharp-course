@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\bin\Debug\net8.0\032sp.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\bin\Debug\net8.0\032sp.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\bin\Debug\net8.0\032sp.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\bin\Debug\net8.0\032sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\bin\Debug\net8.0\032sp.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\refint\032sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\032sp.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\32 timespan\032sp\032sp\obj\Debug\net8.0\ref\032sp.dll

@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\bin\Debug\net8.0\ap003.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\bin\Debug\net8.0\ap003.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\bin\Debug\net8.0\ap003.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\bin\Debug\net8.0\ap003.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\bin\Debug\net8.0\ap003.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\refint\ap003.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ap003.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\3 saida de dados\ap003\ap003\obj\Debug\net8.0\ref\ap003.dll

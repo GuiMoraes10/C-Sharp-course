@@ -1,0 +1,28 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\bin\Debug\net8.0\ap010.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\bin\Debug\net8.0\ap010.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\bin\Debug\net8.0\ap010.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\bin\Debug\net8.0\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\bin\Debug\net8.0\ap010.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\refint\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ap010.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap010\ap010\obj\Debug\net8.0\ref\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\bin\Debug\net8.0\ap010.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\bin\Debug\net8.0\ap010.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\bin\Debug\net8.0\ap010.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\bin\Debug\net8.0\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\bin\Debug\net8.0\ap010.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\refint\ap010.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ap010.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\10 funcoes (sintaxe)\ap010\ap010\obj\Debug\net8.0\ref\ap010.dll

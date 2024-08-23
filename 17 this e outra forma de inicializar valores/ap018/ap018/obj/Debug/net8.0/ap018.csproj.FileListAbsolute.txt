@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\bin\Debug\net8.0\ap018.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\bin\Debug\net8.0\ap018.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\bin\Debug\net8.0\ap018.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\bin\Debug\net8.0\ap018.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\bin\Debug\net8.0\ap018.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\refint\ap018.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ap018.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\17 sintaxe alternativa para inicializar valores\ap018\ap018\obj\Debug\net8.0\ref\ap018.dll

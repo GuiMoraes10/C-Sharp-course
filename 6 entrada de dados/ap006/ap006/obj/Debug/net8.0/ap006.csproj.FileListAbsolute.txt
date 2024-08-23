@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\bin\Debug\net8.0\ap006.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\bin\Debug\net8.0\ap006.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\bin\Debug\net8.0\ap006.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\bin\Debug\net8.0\ap006.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\bin\Debug\net8.0\ap006.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\refint\ap006.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ap006.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\6 entrada de dados\ap006\ap006\obj\Debug\net8.0\ref\ap006.dll

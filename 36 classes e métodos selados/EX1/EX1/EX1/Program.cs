@@ -1,0 +1,22 @@
+﻿using EX1.Entities;
+using System;
+
+namespace EX1
+{
+    // é comum selar métodos que ja sobrescrevram outros, pois a reutilização deles pode causar inconsistências
+    // selar classes garante ganho de performance
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Account acc1 = new Account(1001, "Guilherme", 500.00);
+            Account acc2 = new SavingsAccount(1002, "Ana", 500.00, 0.01);
+
+            acc1.Withdraw(10.0);
+            acc2.Withdraw(10.0);
+
+            Console.WriteLine(acc1.Balance);
+            Console.WriteLine(acc2.Balance);
+        }
+    }
+}

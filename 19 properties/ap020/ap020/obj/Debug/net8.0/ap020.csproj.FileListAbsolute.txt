@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\bin\Debug\net8.0\ap020.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\bin\Debug\net8.0\ap020.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\bin\Debug\net8.0\ap020.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\bin\Debug\net8.0\ap020.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\bin\Debug\net8.0\ap020.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\refint\ap020.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ap020.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\19 properties\ap020\ap020\obj\Debug\net8.0\ref\ap020.dll

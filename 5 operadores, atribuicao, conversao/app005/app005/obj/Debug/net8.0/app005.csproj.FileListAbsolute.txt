@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\bin\Debug\net8.0\app005.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\bin\Debug\net8.0\app005.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\bin\Debug\net8.0\app005.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\bin\Debug\net8.0\app005.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\bin\Debug\net8.0\app005.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\refint\app005.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\app005.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\5 operadores, atribuicao, conversao\app005\app005\obj\Debug\net8.0\ref\app005.dll

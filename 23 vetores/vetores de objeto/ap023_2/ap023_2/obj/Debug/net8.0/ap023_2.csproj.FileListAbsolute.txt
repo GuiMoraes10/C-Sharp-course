@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\bin\Debug\net8.0\ap023_2.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\bin\Debug\net8.0\ap023_2.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\bin\Debug\net8.0\ap023_2.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\bin\Debug\net8.0\ap023_2.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\bin\Debug\net8.0\ap023_2.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\refint\ap023_2.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ap023_2.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores de objeto\ap023_2\ap023_2\obj\Debug\net8.0\ref\ap023_2.dll

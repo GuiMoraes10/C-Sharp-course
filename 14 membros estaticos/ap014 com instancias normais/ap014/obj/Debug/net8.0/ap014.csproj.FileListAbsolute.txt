@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\bin\Debug\net8.0\ap014.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\bin\Debug\net8.0\ap014.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\bin\Debug\net8.0\ap014.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\bin\Debug\net8.0\ap014.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\bin\Debug\net8.0\ap014.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\refint\ap014.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ap014.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\14 Membros estaticos\ap014\ap014\obj\Debug\net8.0\ref\ap014.dll

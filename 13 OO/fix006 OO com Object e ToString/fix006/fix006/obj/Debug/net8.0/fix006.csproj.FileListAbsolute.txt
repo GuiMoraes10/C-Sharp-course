@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\bin\Debug\net8.0\fix006.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\bin\Debug\net8.0\fix006.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\bin\Debug\net8.0\fix006.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\bin\Debug\net8.0\fix006.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\bin\Debug\net8.0\fix006.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\refint\fix006.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\fix006.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix006 OO com Object e ToString\fix006\fix006\obj\Debug\net8.0\ref\fix006.dll

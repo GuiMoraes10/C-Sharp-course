@@ -1,0 +1,28 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\bin\Debug\net8.0\Ap001.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\bin\Debug\net8.0\Ap001.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\bin\Debug\net8.0\Ap001.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\bin\Debug\net8.0\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\bin\Debug\net8.0\Ap001.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\refint\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\Ap001.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1\Ap001\Ap001\obj\Debug\net8.0\ref\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\bin\Debug\net8.0\Ap001.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\bin\Debug\net8.0\Ap001.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\bin\Debug\net8.0\Ap001.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\bin\Debug\net8.0\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\bin\Debug\net8.0\Ap001.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\refint\Ap001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\Ap001.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\1 estrutura basica\Ap001\Ap001\obj\Debug\net8.0\ref\Ap001.dll

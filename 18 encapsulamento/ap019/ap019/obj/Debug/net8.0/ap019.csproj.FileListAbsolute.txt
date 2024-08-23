@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\bin\Debug\net8.0\ap019.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\bin\Debug\net8.0\ap019.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\bin\Debug\net8.0\ap019.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\bin\Debug\net8.0\ap019.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\bin\Debug\net8.0\ap019.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\refint\ap019.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ap019.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\18 encapsulamento\ap019\ap019\obj\Debug\net8.0\ref\ap019.dll

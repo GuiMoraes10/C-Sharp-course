@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\bin\Debug\net8.0\ap004.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\bin\Debug\net8.0\ap004.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\bin\Debug\net8.0\ap004.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\bin\Debug\net8.0\ap004.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\bin\Debug\net8.0\ap004.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\refint\ap004.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ap004.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\4 concatenacao\ap004\ap004\obj\Debug\net8.0\ref\ap004.dll

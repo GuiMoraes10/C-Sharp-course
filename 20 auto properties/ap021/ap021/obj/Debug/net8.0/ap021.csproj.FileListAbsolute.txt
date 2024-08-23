@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\bin\Debug\net8.0\ap021.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\bin\Debug\net8.0\ap021.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\bin\Debug\net8.0\ap021.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\bin\Debug\net8.0\ap021.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\bin\Debug\net8.0\ap021.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\refint\ap021.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ap021.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\20 auto properties\ap021\ap021\obj\Debug\net8.0\ref\ap021.dll

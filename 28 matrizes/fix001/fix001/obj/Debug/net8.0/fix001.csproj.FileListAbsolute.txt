@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\bin\Debug\net8.0\fix001.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\bin\Debug\net8.0\fix001.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\bin\Debug\net8.0\fix001.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\bin\Debug\net8.0\fix001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\bin\Debug\net8.0\fix001.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\refint\fix001.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\fix001.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\28 matrizes\fix001\fix001\obj\Debug\net8.0\ref\fix001.dll

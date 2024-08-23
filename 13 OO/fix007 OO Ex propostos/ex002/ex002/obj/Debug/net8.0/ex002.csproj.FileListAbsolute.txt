@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\bin\Debug\net8.0\ex002.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\bin\Debug\net8.0\ex002.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\bin\Debug\net8.0\ex002.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\bin\Debug\net8.0\ex002.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\bin\Debug\net8.0\ex002.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\refint\ex002.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ex002.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix 007 OO Ex propostos\ex002\ex002\obj\Debug\net8.0\ref\ex002.dll

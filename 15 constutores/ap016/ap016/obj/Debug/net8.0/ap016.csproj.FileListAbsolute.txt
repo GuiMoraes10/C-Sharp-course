@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\bin\Debug\net8.0\ap016.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\bin\Debug\net8.0\ap016.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\bin\Debug\net8.0\ap016.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\bin\Debug\net8.0\ap016.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\bin\Debug\net8.0\ap016.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\refint\ap016.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ap016.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\15 constutores\ap016\ap016\obj\Debug\net8.0\ref\ap016.dll

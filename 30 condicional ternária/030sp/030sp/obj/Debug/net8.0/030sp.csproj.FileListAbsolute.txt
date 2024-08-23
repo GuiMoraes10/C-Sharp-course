@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\bin\Debug\net8.0\030sp.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\bin\Debug\net8.0\030sp.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\bin\Debug\net8.0\030sp.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\bin\Debug\net8.0\030sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\bin\Debug\net8.0\030sp.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\refint\030sp.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\030sp.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\30 condicional ternária\030sp\030sp\obj\Debug\net8.0\ref\030sp.dll

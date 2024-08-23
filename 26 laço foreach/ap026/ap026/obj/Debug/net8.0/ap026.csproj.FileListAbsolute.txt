@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\bin\Debug\net8.0\ap026.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\bin\Debug\net8.0\ap026.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\bin\Debug\net8.0\ap026.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\bin\Debug\net8.0\ap026.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\bin\Debug\net8.0\ap026.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\refint\ap026.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ap026.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\26 laço foreach\ap026\ap026\obj\Debug\net8.0\ref\ap026.dll

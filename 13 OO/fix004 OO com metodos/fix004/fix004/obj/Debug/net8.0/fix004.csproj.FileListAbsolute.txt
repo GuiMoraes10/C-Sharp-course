@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\bin\Debug\net8.0\fix004.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\bin\Debug\net8.0\fix004.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\bin\Debug\net8.0\fix004.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\bin\Debug\net8.0\fix004.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\bin\Debug\net8.0\fix004.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\refint\fix004.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\fix004.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix\fix004 OO com metodos\fix004\fix004\obj\Debug\net8.0\ref\fix004.dll

@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\bin\Debug\net8.0\fix005.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\bin\Debug\net8.0\fix005.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\bin\Debug\net8.0\fix005.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\bin\Debug\net8.0\fix005.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\bin\Debug\net8.0\fix005.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\refint\fix005.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\fix005.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\13 fix OO\fix005 OO\fix005\fix005\obj\Debug\net8.0\ref\fix005.dll

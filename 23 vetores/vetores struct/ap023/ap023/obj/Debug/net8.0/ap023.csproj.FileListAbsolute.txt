@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\bin\Debug\net8.0\ap023.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\bin\Debug\net8.0\ap023.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\bin\Debug\net8.0\ap023.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\bin\Debug\net8.0\ap023.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\bin\Debug\net8.0\ap023.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\refint\ap023.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ap023.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\23 vetores\vetores struct\ap023\ap023\obj\Debug\net8.0\ref\ap023.dll

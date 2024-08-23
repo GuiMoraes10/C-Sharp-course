@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\bin\Debug\net8.0\ap007.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\bin\Debug\net8.0\ap007.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\bin\Debug\net8.0\ap007.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\bin\Debug\net8.0\ap007.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\bin\Debug\net8.0\ap007.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\refint\ap007.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ap007.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\7 entrada de dados 2\ap007\ap007\obj\Debug\net8.0\ref\ap007.dll

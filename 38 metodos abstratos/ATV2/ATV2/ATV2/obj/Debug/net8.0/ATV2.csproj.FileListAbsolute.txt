@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\bin\Debug\net8.0\ATV2.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\bin\Debug\net8.0\ATV2.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\bin\Debug\net8.0\ATV2.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\bin\Debug\net8.0\ATV2.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\bin\Debug\net8.0\ATV2.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\refint\ATV2.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ATV2.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\38 metodos abstratos\ATV2\ATV2\ATV2\obj\Debug\net8.0\ref\ATV2.dll

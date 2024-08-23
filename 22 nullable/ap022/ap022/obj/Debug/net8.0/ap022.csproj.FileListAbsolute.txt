@@ -1,0 +1,14 @@
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\bin\Debug\net8.0\ap022.exe
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\bin\Debug\net8.0\ap022.deps.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\bin\Debug\net8.0\ap022.runtimeconfig.json
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\bin\Debug\net8.0\ap022.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\bin\Debug\net8.0\ap022.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.AssemblyInfoInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.AssemblyInfo.cs
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.csproj.CoreCompileInputs.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\refint\ap022.dll
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.pdb
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ap022.genruntimeconfig.cache
+C:\Users\moraes\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\Documentos\Estd\C#\22 nullable\ap022\ap022\obj\Debug\net8.0\ref\ap022.dll
