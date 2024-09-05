@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\",
+  "WorkspaceRootPath": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\ap01\\ap01\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\ap01\\ap01\\services\\servicodecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\myresolution\\ap01\\ap01\\services\\servicodecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\services\\servicodecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\ap01\\ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\ap01\\ap01\\services\\iservicodepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\services\\iservicodepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\ap01\\ap01\\services\\picpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\myresolution\\ap01\\ap01\\services\\picpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\services\\picpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\ap01\\ap01\\entities\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\myresolution\\ap01\\ap01\\services\\iservicodepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\services\\iservicodepagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\myresolution\\ap01\\ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\myresolution\\ap01\\ap01\\entities\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\entities\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|c:\\users\\moraes\\onedrive - alfa instrumentos eletronicos ltda\\documentos\\estd\\c#\\47 ex\\myresolution\\ap01\\ap01\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8BD229-3211-46AA-86DB-25A2A746D23A}|AP01\\AP01.csproj|solutionrelative:ap01\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PicPayService.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Services\\PicPayService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Services\\PicPayService.cs",
               "RelativeDocumentMoniker": "AP01\\Services\\PicPayService.cs",
-              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Services\\PicPayService.cs",
+              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Services\\PicPayService.cs",
               "RelativeToolTip": "AP01\\Services\\PicPayService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T18:08:33.338Z",
               "IsPinned": true,
@@ -52,11 +52,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IServicoDePagamento.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Services\\IServicoDePagamento.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Services\\IServicoDePagamento.cs",
               "RelativeDocumentMoniker": "AP01\\Services\\IServicoDePagamento.cs",
-              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Services\\IServicoDePagamento.cs",
+              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Services\\IServicoDePagamento.cs",
               "RelativeToolTip": "AP01\\Services\\IServicoDePagamento.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServicoDeContrato.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Services\\ServicoDeContrato.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Services\\ServicoDeContrato.cs",
               "RelativeDocumentMoniker": "AP01\\Services\\ServicoDeContrato.cs",
-              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Services\\ServicoDeContrato.cs",
+              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Services\\ServicoDeContrato.cs",
               "RelativeToolTip": "AP01\\Services\\ServicoDeContrato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Program.cs",
               "RelativeDocumentMoniker": "AP01\\Program.cs",
-              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Program.cs",
+              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Program.cs",
               "RelativeToolTip": "AP01\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T17:47:14.79Z",
               "IsPinned": true,
@@ -94,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Parcela.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Entities\\Parcela.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Entities\\Parcela.cs",
               "RelativeDocumentMoniker": "AP01\\Entities\\Parcela.cs",
-              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Entities\\Parcela.cs",
+              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Entities\\Parcela.cs",
               "RelativeToolTip": "AP01\\Entities\\Parcela.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Contrato.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Entities\\Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Entities\\Contrato.cs",
               "RelativeDocumentMoniker": "AP01\\Entities\\Contrato.cs",
-              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\AP01\\AP01\\Entities\\Contrato.cs",
+              "ToolTip": "C:\\Users\\moraes\\OneDrive - ALFA INSTRUMENTOS ELETRONICOS LTDA\\Documentos\\Estd\\C#\\47 EX\\MyResolution\\AP01\\AP01\\Entities\\Contrato.cs",
               "RelativeToolTip": "AP01\\Entities\\Contrato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
