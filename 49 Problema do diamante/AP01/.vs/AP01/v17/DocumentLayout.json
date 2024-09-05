@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\49 problema do diamante\\ap01\\ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C05E6B-F397-4A75-B92A-D8B4F66A5D41}|AP01\\AP01.csproj|solutionrelative:ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\IPrinter.cs",
+              "RelativeDocumentMoniker": "AP01\\Devices\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\IPrinter.cs",
+              "RelativeToolTip": "AP01\\Devices\\IPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\IScanner.cs",
+              "RelativeDocumentMoniker": "AP01\\Devices\\IScanner.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\IScanner.cs",
+              "RelativeToolTip": "AP01\\Devices\\IScanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:24:58.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "AP01\\Devices\\ComboDevice.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\ComboDevice.cs",
+              "RelativeToolTip": "AP01\\Devices\\ComboDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:22:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\Printer.cs",
+              "RelativeDocumentMoniker": "AP01\\Devices\\Printer.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\Printer.cs",
+              "RelativeToolTip": "AP01\\Devices\\Printer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:53:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\Scanner.cs",
+              "RelativeDocumentMoniker": "AP01\\Devices\\Scanner.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\Scanner.cs",
+              "RelativeToolTip": "AP01\\Devices\\Scanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:51:58.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\Device.cs",
+              "RelativeDocumentMoniker": "AP01\\Devices\\Device.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Devices\\Device.cs",
+              "RelativeToolTip": "AP01\\Devices\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:50:47.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Program.cs",
+              "RelativeDocumentMoniker": "AP01\\Program.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\49 Problema do diamante\\AP01\\AP01\\Program.cs",
+              "RelativeToolTip": "AP01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:21:18.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
