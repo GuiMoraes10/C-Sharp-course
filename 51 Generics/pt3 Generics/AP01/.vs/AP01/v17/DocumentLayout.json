@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\51 Generics\\pt3 Generics\\AP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D37E54C-FABD-445A-BC55-53EA33EA4A85}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\51 generics\\pt3 generics\\ap01\\ap01\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D37E54C-FABD-445A-BC55-53EA33EA4A85}|AP01\\AP01.csproj|solutionrelative:ap01\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D37E54C-FABD-445A-BC55-53EA33EA4A85}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\51 generics\\pt3 generics\\ap01\\ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D37E54C-FABD-445A-BC55-53EA33EA4A85}|AP01\\AP01.csproj|solutionrelative:ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\51 Generics\\pt3 Generics\\AP01\\AP01\\PrintService.cs",
+              "RelativeDocumentMoniker": "AP01\\PrintService.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\51 Generics\\pt3 Generics\\AP01\\AP01\\PrintService.cs",
+              "RelativeToolTip": "AP01\\PrintService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:53:34.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\51 Generics\\pt3 Generics\\AP01\\AP01\\Program.cs",
+              "RelativeDocumentMoniker": "AP01\\Program.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\51 Generics\\pt3 Generics\\AP01\\AP01\\Program.cs",
+              "RelativeToolTip": "AP01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:47:43.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
