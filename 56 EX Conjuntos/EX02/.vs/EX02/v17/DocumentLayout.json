@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\56 EX Conjuntos\\EX02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E221EBB-52EF-4BE3-AA6D-505531A81707}|EX02\\EX02.csproj|c:\\users\\moraes\\documents\\estd\\c#\\56 ex conjuntos\\ex02\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E221EBB-52EF-4BE3-AA6D-505531A81707}|EX02\\EX02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\56 EX Conjuntos\\EX02\\EX02\\Program.cs",
+              "RelativeDocumentMoniker": "EX02\\Program.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\56 EX Conjuntos\\EX02\\EX02\\Program.cs",
+              "RelativeToolTip": "EX02\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:13:30.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

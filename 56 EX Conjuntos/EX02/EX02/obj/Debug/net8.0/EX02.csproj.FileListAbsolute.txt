@@ -1,0 +1,15 @@
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\bin\Debug\net8.0\EX02.exe
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\bin\Debug\net8.0\EX02.deps.json
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\bin\Debug\net8.0\EX02.runtimeconfig.json
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\bin\Debug\net8.0\EX02.dll
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\bin\Debug\net8.0\EX02.pdb
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.AssemblyInfoInputs.cache
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.AssemblyInfo.cs
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.csproj.CoreCompileInputs.cache
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.sourcelink.json
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.dll
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\refint\EX02.dll
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.pdb
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\EX02.genruntimeconfig.cache
+C:\Users\moraes\Documents\Estd\C#\56 EX Conjuntos\EX02\EX02\obj\Debug\net8.0\ref\EX02.dll
