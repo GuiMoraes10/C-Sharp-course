@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\AP01.csproj": {}
+    "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\AP01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\AP01.csproj": {
+    "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\AP01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\AP01.csproj",
+        "projectUniqueName": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\AP01.csproj",
         "projectName": "AP01",
-        "projectPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\AP01.csproj",
+        "projectPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\AP01.csproj",
         "packagesPath": "C:\\Users\\moraes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\obj\\",
+        "outputPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

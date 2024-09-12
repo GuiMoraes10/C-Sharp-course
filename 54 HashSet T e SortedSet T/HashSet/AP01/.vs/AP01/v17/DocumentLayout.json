@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\",
+  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5650E568-7752-4A56-B9D0-69260194C74A}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\54 hashset t e sortedset t\\ap01\\ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5650E568-7752-4A56-B9D0-69260194C74A}|AP01\\AP01.csproj|c:\\users\\moraes\\documents\\estd\\c#\\54 hashset t e sortedset t\\hashset\\ap01\\ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5650E568-7752-4A56-B9D0-69260194C74A}|AP01\\AP01.csproj|solutionrelative:ap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\Program.cs",
               "RelativeDocumentMoniker": "AP01\\Program.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\AP01\\AP01\\Program.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\C#\\54 HashSet T e SortedSet T\\HashSet\\AP01\\AP01\\Program.cs",
               "RelativeToolTip": "AP01\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
