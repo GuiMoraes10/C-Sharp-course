@@ -12,8 +12,8 @@ namespace AP01
             // StreamReader - Capaz de ler caracteres a partir de uma stream binária (ex: FileStream)
 
             string path = @"C:\temp\file1.txt";
-            FileStream fs = null;
-            StreamReader sr = null;
+            FileStream? fs = null;
+            StreamReader? sr = null;
 
             try
             {
@@ -26,7 +26,7 @@ namespace AP01
                 while (!sr.EndOfStream)
                 {
                     // lê uma linha do arquivo e armazena
-                    string line = sr.ReadLine();
+                    string? line = sr.ReadLine();
                     Console.WriteLine(line);
                 }
 
@@ -39,7 +39,7 @@ namespace AP01
                 while (!sr2.EndOfStream)
                 {
                     // lê uma linha do arquivo e armazena
-                    string line = sr2.ReadLine();
+                    string? line = sr2.ReadLine();
                     Console.WriteLine(line);
                 }
 
